@@ -1,0 +1,6 @@
+# Copy this file to .env and fill in your real values.
+# .env is gitignored and should NEVER be committed.
+
+DB_USER=maycem
+DB_PASSWORD=your_password_here
+DB_DSN=localhost:1521/XE
